@@ -1,6 +1,7 @@
 # Task Manager App 📝
 
 ![App Screenshot](./screenshot.png) *(Add your own screenshot later)*
+![App Screenshot](./screenshot2.png) *(Add your own screenshot later)*
 
 A productivity app built with React featuring:
 - ✅ Drag-and-drop task organization
